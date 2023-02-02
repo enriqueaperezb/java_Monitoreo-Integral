@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="top">
+        <item>Acaros</item>
+        <item>Botritis</item>
+        <item>Clorosis</item>
+    </string-array>
+</resources>

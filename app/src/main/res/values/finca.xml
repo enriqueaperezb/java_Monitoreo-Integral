@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="fincas">
+        <item>Finca 1</item>
+        <item>Finca 2</item>
+        <item>Finca 3</item>
+    </string-array>
+</resources>

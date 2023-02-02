@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="indicadores">
+        <item>Alto</item>
+        <item>Medio</item>
+        <item>Bajo</item>
+    </string-array>
+</resources>

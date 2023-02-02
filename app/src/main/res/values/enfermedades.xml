@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="enfermedades">
+        <item>Botritis</item>
+        <item>Clorosis</item>
+    </string-array>
+</resources>

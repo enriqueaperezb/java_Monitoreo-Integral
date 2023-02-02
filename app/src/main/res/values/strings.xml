@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MonitoreoIntegral</string>
+    <string name="spinner_finca_text">FINCA</string>
+    <string name="spinner_bloque_text">BLOQUE</string>
+    <string name="spinner_cama_text">CAMA</string>
+    <string name="spinner_cuadro_text">CUADRO</string>
+    <string name="image_variedad_text">VARIEDAD</string>
+    <string name="button_registrarNovedad_text">REGISTRAR</string>
+    <string name="textView_registrosFaltantes_text">Cuadro inicial [ ]  3 cuadros intermedios [x]  Cuadro final [ ]</string>
+    <string name="tab_top_text">TOP</string>
+    <string name="tab_plagas_text">PLAGAS</string>
+    <string name="tab_enfermedades_text">ENFERMEDADES</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
